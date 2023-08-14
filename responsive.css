@@ -1,0 +1,449 @@
+@media (min-width: 320px) and (max-width:600px){
+    #nav{
+        height: 10vh;
+        padding: 0 20px;
+    }
+    #nav a{
+        gap: 5px;
+    }#nav .get{
+        padding: 8px 15px;
+        font-size: 1.9vmax;
+    }#nav .people{
+        font-size: 2.5vmax;
+    }#nav .people span{
+        font-size: 2vmax;
+    }#nav .people img{
+        width: 35px;
+    }
+
+
+    /* // page 1  */
+    #page1{
+        width: 100%;
+        height: 100vh;
+    }
+    .page1-container{
+        width: 100%;
+        height: 60vh;
+    }
+    .page1-container h1{
+        font-size: 15vmax;
+        font-weight: 500;
+        line-height: 1;
+    }
+    .page1-container p{
+        font-size: 1.7vmax;
+    }
+    .page1-container .img1{
+        width: 50px;
+        right: 10%;
+    }
+    .page1-container .img2{
+        width: 70px;
+        left: 10%;
+    }
+    #page1 .img3{
+        width: 70vh;
+    }
+
+    /* // page 2  */
+    #page2{
+        height: 20vh;
+        justify-content: end;
+        gap: 10px;
+    }
+    #page2 h1{
+        width: 90%;
+        font-weight: 500;
+    }#page2 p{
+        font-size: 1.7vmax;
+        width: 90%;
+    }
+
+    /* // page 3  */
+    #page3{
+        display: none;
+    }
+
+
+    /* // page 4  */
+    #page4{
+        margin-top: 10%;
+    }
+    .page4-top{
+        width: 100%;
+        height: 20vh;
+    }
+    .page4-top h1{
+        width: 90%;
+        font-size: 3.6vmax;
+    }
+    .page4-second{
+        height: 30vh;
+    }
+    .page4-second .wave{
+        height: 10vh;
+    }
+    .page4-second .wave img{
+        width: 300%;
+    }
+    .page4-second .page4-img{
+        width: 110%;
+    }
+    .page4-third{
+        width: 100%;
+    }
+    .weve{
+        width: 90%;
+        font-size: 1.9vmax;
+    }
+    .page4-third-bottom{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        margin-top: 20px;
+        flex-wrap: wrap;
+        padding-bottom: 10vh;
+    }
+    .page4-card{
+        width: calc(87%);
+        height: 55vh;
+        background-color: white;
+        padding: 0;
+    }
+    .page4-card2{
+        position: relative;
+        width: calc(87%);
+        height: 55vh;
+        align-items: start;
+        justify-content: start;
+        padding-left: 0;
+        text-align: center;
+    }
+    .page4-card img{
+        height: 70%;
+    }
+    .page4-card .page4-img{
+        background-color: white;
+    }
+    .page4-card h1{
+        font-size:3.5vmax;
+        bottom: 55px;
+        left: 50%;
+        white-space: nowrap;
+        transform: translate(-50%,0);
+    }.page4-card p{
+        font-size:1.7vmax;
+        bottom:40px;
+        left: 50%;
+        transform: translate(-50%,0);
+        white-space: nowrap;
+    }
+    .page4-card2 h1{
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 10%;
+        line-height: 1.1;
+        font-size: 2.8vmax;
+    }.page4-card2 p{
+        width: 90%;
+        font-size: 1.9vmax;
+    }
+    .page4-card2 img{
+        width: 90%;
+        left: 50%;
+        transform: translate(-50%,0);
+        top: 20vh;
+    }
+
+    /* // page 5  */
+    #page5{
+        height: 20vh;
+    }
+    #page5 h1{
+        width: 90%;
+    }
+
+    /* // page 6  */
+    #page6{
+        width: 100%;
+        height: 100vh;
+    }
+    .page6-card{
+        flex-direction: column-reverse;
+    }
+    .page6-left{
+        width: 100%;
+        height: 50%;
+        padding-left: 8%;
+        gap: 15px;
+    }
+    .page6-left p{
+        font-size: 2.3vmax;
+        text-align: center;
+        font-weight: 500;
+        width: 100%;
+    }.page6-left h1{
+        font-weight: 600;
+        width: 90%;
+        font-size: 3.5vmax;
+        text-align: center;
+    }
+    .page6-right{
+        width: 100%;
+        height: 50%;
+        align-items: center;
+    }
+    .page6-right img{
+        width: 80%;
+        left: 0%;
+    }
+
+    /* // page 7  */
+    #page7{
+        min-height: 100vh;
+    }
+    .page7-img1{
+        width: 20%;
+        left: 6%;
+        top: 14%;
+    }.page7-img3{
+        width: 30%;
+        right: 6%;
+        top: 20%;
+    }.page7-img2{
+        width: 55%;
+        left: 34%;
+        top: 30%;
+    }.page7-img4{
+        width:30%;
+        left: 7%;
+        bottom: 20%;
+    }.page7-img5{
+        width: 55%;
+        left: 67%;
+        bottom: 17%;
+    }
+    #page7 h1{
+        width: 90%;
+        font-size: 3vmax;
+        margin-top: 10%;
+    }
+
+    /* // page 8  */
+    #page8{
+        padding: 5%;
+    }
+    #page8 p{
+        font-size: 2.5vmax;
+    }#page8 h1{
+        font-size: 5vmax;
+        line-height: 1.2;
+    }
+    .page8-bottom img{
+        width: calc(100%/2);
+        height:170px;
+    }
+
+
+    /* // page 9  */
+#page9{
+    gap: 20px;
+}
+.page9-card1{
+    width: 100%;
+    height: 50vh;
+    padding: 3vh 4vh;
+    gap: 0px;
+}
+.page9-card1 h1{
+    font-size: 5vmax;
+    font-weight: 500;
+    margin-top: 10px;
+    position: relative;
+    top: 30px;
+}
+.page9-card1 img{
+    width: 80%;
+    top: -10px;
+}
+.page9-card1-p{
+    width: 100%;
+    top: -25px;
+}
+.page9-card1-p .p{
+    width: 50%;
+}
+.page9-card1-p .p p{
+    color: white;
+    font-weight: 500;
+    font-size: 1.8vmax;
+    line-height: 1.3;
+}
+.page9-card1-p a{
+    padding: 10px 25px;
+    margin-bottom: 50px;
+    font-size: 1.7vmax;
+}
+.page9-card2{
+    width: 100%;
+    height: 50vh;
+}
+.page9-card2 p{
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 5%;
+    font-size: 1.9vmax;
+
+}
+.page9-card2 img{
+    width: 15%;
+    margin-bottom: 0%;
+}
+.page9-card2 h1{
+    margin-bottom: 20%;
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 2.6vmax;
+}
+.page9-card2 a{
+    padding: 14px 30px;
+    border-radius: 30px;
+    font-size: 1.8vmax;
+    margin-bottom: 0%;
+    position: relative;
+    bottom: 20px;
+}
+.page9-card3{
+    width: calc(100%);
+    height: 15vh;
+    border-radius: 15px;
+    padding: 0 3%;
+}
+.page9-card3 h1{
+    font-size: 2.2vmax;
+    color: white;
+    font-weight: 600;
+}.page9-card3 p{
+    font-size: 1.5vmax;
+    color: white;
+    font-weight: 500;
+}.page9-card3 a{
+    font-size: 1.7vmax;
+    color: black;
+    background-color:white;
+    padding: 10px 15px;
+    border-radius: 30px;
+    font-weight: 500;
+}
+.page9-profile{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+.page9-profile img{
+    width: 25%;
+}
+.page9-profile h1{
+    font-size: 3.5vmax;
+    color: white;
+    line-height: 1.1;
+    font-weight: 600;
+    width: 90%;
+}
+.page9-profile p{
+    font-size: 1.9vmax;
+    font-weight: 500;
+    color: white;
+}.page9-profile p a{
+    font-weight: 600;
+    color: white;
+    text-decoration: underline;
+}
+.page9-footer{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    padding: 0 0px;
+    flex-direction: column-reverse;
+    /* background-color: aqua; */
+}
+.page9-footer-left{
+    width: 100%;
+    height: 30%;
+    /* background-color: #ff8655; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5%;
+}
+
+.page9-footer-right{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    /* background-color: #ffd455; */
+    padding-top: 5%;
+}
+.page9-footer-left h2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 3vmax;
+    color: white;
+}
+.page9-footer-left h2 img{
+    width: 30px;
+}
+.page9-footer-left p{
+    font-size: 2vmax;
+    color: rgb(178, 178, 178);
+    font-weight: 500;
+}
+.footer{
+    width: calc(100%/3);
+    height: 100%;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    gap: 10px;
+}
+.footer p{
+    font-size: 1.9vmax;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 10px;
+}.footer a{
+    font-size: 1.8vmax;
+    color: white;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.footer img{
+    width: 10px;
+    margin-left: -15px;
+}
+.footer .icon{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    top: -3px;
+}
+.footer .icon i{
+    font-size: 1.7vmax;
+    color: white;
+    font-weight: 400;
+}
+}
