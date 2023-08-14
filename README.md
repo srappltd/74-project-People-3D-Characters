@@ -1,5 +1,4 @@
 # 74-project-People-3D-Characters
-![](https://firebasestorage.googleapis.com/v0/b/b24--project.appspot.com/o/img%2FScreenshot%202023-08-14%20at%2014-35-52%20People%203D%20Characters.png?alt=media&token=520f5063-f9b2-48cb-a127-79a79122b548)
 ![](https://firebasestorage.googleapis.com/v0/b/b24--project.appspot.com/o/img%2FPeople%203d%2FScreenshot%202023-08-14%20at%2014-42-27%20People%203D%20Characters.png?alt=media&token=4ab2631a-7d6b-4e8d-a4f0-fa14934a3d7e)
 ![](https://firebasestorage.googleapis.com/v0/b/b24--project.appspot.com/o/img%2FPeople%203d%2FScreenshot%202023-08-14%20at%2014-42-40%20People%203D%20Characters.png?alt=media&token=0af8c6f2-d3de-4462-ac18-df75c2faff78)
 ![](https://firebasestorage.googleapis.com/v0/b/b24--project.appspot.com/o/img%2FPeople%203d%2FScreenshot%202023-08-14%20at%2014-43-06%20People%203D%20Characters.png?alt=media&token=baf2a2d8-3bcb-413c-8a74-84f9998518e3)
